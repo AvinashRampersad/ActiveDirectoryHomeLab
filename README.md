@@ -23,8 +23,8 @@ I run attacks on a machine and used splunk to analyze the logs.
 <h2>Walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Network diagram: <br/>
+<img src="https://imgur.com/a/K1PDIHk" height="80%" width="80%" alt="Network diagram"/>
 <br />
 <br />
 Select the disk:  <br/>
