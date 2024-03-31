@@ -78,46 +78,60 @@ Then I configured the domain and restarted the server. <br />
 <img src="https://i.imgur.com/ug8Wmos.png" height="80%" width="80%" alt="27"/>
 <img src="https://i.imgur.com/o7CbYum.png" height="80%" width="80%" alt="28"/>
 <br />
- 
+ Then I ran a powershell script to add 1000 users in active directory. <br />
 <img src="https://i.imgur.com/xqjlQEV.png" height="80%" width="80%" alt="29"/>
 <img src="https://i.imgur.com/4XBrJUs.png" height="80%" width="80%" alt="30"/>
-
+<br />
+Next I put my windows 10 device on the same network as the server to get internet access through the domain controller’s internal NIC to the external NIC. <br />
 <img src="https://i.imgur.com/pPgal9f.png" height="80%" width="80%" alt="31"/>
-
 <img src="https://i.imgur.com/rP8Oo4H.png" height="80%" width="80%" alt="32"/>
-
+<br />
+ I installed splunk on the other windows server 2019. <br />
 <img src="https://i.imgur.com/UfUTE4j.png" height="80%" width="80%" alt="33"/>
-
+<br />
+ Then I added the splunk server to the homelab domain. <br />
 <img src="https://i.imgur.com/f0iNHCk.png" height="80%" width="80%" alt="34"/>
-
+<br />
+ I then created a splunk admin account and added it to members of domain admins and domain user. <br />
 <img src="https://i.imgur.com/54S3jZ7.png" height="80%" width="80%" alt="35"/>
-
+<br />
+ I added another hard drive for Splunk logs and I put it online, named it SplunkLogs and formatted it for Splunk. <br />
 <img src="https://i.imgur.com/7Ti2OPJ.png" height="80%" width="80%" alt="36"/>
-
 <img src="https://i.imgur.com/xGEWoIC.png" height="80%" width="80%" alt="37"/>
-
 <img src="https://i.imgur.com/eQ7M3ep.png" height="80%" width="80%" alt="38"/>
-
+<br />
+I then downloaded Microsoft edge to be able to use splunk because it would not work on internet explorer. <br />
 <img src="https://i.imgur.com/2sfeEIr.png" height="80%" width="80%" alt="39"/>
-
+<br />
+ I downloaded Splunk universal forwarder and copied it to the domain controller and windows 10 machine. <br />
+ <img src="https://i.imgur.com/O73GBdH.png" height="80%" width="80%" alt="40"/>
+ <br />
+Then I copied the Splunk universal forwarder and splunk add on for windows into the splunk server machine. <br />
 <img src="https://i.imgur.com/6OfLPt5.png" height="80%" width="80%" alt="40"/>
-
+<br />
+  I installed splunk universal forwarder on the domain server and windows 10 device. <br />
 <img src="https://i.imgur.com/R2oPtmY.png" height="80%" width="80%" alt="41"/>
-
+<br />
+ I copied the extracted splunk universal forwarder file into the splunk program files. <br />
 <img src="https://i.imgur.com/tbJyhyr.png" height="80%" width="80%" alt="42"/>
-
+<br />
+I edit the input file to enable system logs. <br />
 <img src="https://i.imgur.com/ipTJB7U.png" height="80%" width="80%" alt="43"/>
-
+<br />
+  I installed splunk add on to my splunk application. <br />
 <img src="https://i.imgur.com/RuUO7fm.png" height="80%" width="80%" alt="44"/>
-
+<br />
+Then I configured the receiving port to add 9997. Now the splunk server will be getting logs forwarded from the devices on the network. <br />
 <img src="https://i.imgur.com/2MSQ75o.png" height="80%" width="80%" alt="45"/>
-
+ <br />
+ On my windows machine I install Atomic Red Team. <br />
 <img src="https://i.imgur.com/qoLP2Wk.png" height="80%" width="80%" alt="46"/>
-
+<br />
+ I add an exception to windows defender so it wouldn’t remove any of the Atomic Red Team files when I install it. First I add an exception to the C:\ drive and once it’s installed I add the C:\AtomicRedTeam exception and remove the C:\ exception. <br />
 <img src="https://i.imgur.com/BkLZ4N5.png" height="80%" width="80%" alt="47"/>
-
 <img src="https://i.imgur.com/DkFQBw8.png" height="80%" width="80%" alt="48"/>
-
+<br />
+ 
 <img src="" height="80%" width="80%" alt="49"/>
 <img src="" height="80%" width="80%" alt="50"/>
 <br />
