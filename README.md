@@ -11,8 +11,7 @@ I run attacks on a machine and used splunk to analyze the logs.
 - <b>Active Directory</b>
 - <b>Wireshark</b>
 - <b>Splunk</b>
-- <b>Vmware</b>
-- <b>Vmware</b>
+- <b>Vmware</b> 
 
 <h2>Environments Used </h2>
 
