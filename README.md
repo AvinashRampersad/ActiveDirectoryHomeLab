@@ -24,30 +24,29 @@ I run attacks on a machine and used splunk to analyze the logs.
 
 <p align="center">
 Network diagram: <br/>
-<img src="https://imgur.com/a/K1PDIHk" height="80%" width="80%" alt="1"/>
+<img src="https://i.imgur.com/T8PExrw.jpeg" height="60%" width="60%" alt="1"/>
 <br />
 <br />
 description  <br/>
-<img src="" height="80%" width="80%" alt="1"/>
-<img src="" height="80%" width="80%" alt="2"/>
-<img src="" height="80%" width="80%" alt="3"/>
-<img src="" height="80%" width="80%" alt="4"/>
-<img src="" height="80%" width="80%" alt="5"/>
-<img src="" height="80%" width="80%" alt="6"/>
-<img src="" height="80%" width="80%" alt="7"/>
-<img src="" height="80%" width="80%" alt="8"/>
-<img src="" height="80%" width="80%" alt="9"/>
-<img src="" height="80%" width="80%" alt="10"/>
-<img src="" height="80%" width="80%" alt="11"/>
-<img src="" height="80%" width="80%" alt="12"/>
-<img src="" height="80%" width="80%" alt="13"/>
-<img src="" height="80%" width="80%" alt="14"/>
-<img src="" height="80%" width="80%" alt="15"/>
-<img src="" height="80%" width="80%" alt="16"/>
-<img src="" height="80%" width="80%" alt="17"/>
-<img src="" height="80%" width="80%" alt="18"/>
-<img src="" height="80%" width="80%" alt="19"/>
-<img src="" height="80%" width="80%" alt="20"/>
+<img src="https://i.imgur.com/FTDyEQW.png" height="80%" width="80%" alt="2"/>
+<img src="https://i.imgur.com/P5wvhvA.png" height="80%" width="80%" alt="3"/>
+<img src="https://i.imgur.com/mwQw4nM.png" height="80%" width="80%" alt="4"/>
+<img src="https://i.imgur.com/zajx2zd.png" height="80%" width="80%" alt="5"/>
+<img src="https://i.imgur.com/Ko9DKgk.png" height="80%" width="80%" alt="6"/>
+<img src="https://i.imgur.com/kItqBI5.png" height="80%" width="80%" alt="7"/>
+<img src="https://i.imgur.com/fSrrxUw.png" height="80%" width="80%" alt="8"/>
+<img src="https://i.imgur.com/4Vw4cVS.png" height="80%" width="80%" alt="9"/>
+<img src="https://i.imgur.com/u36Xcun.png" height="80%" width="80%" alt="10"/>
+<img src="https://i.imgur.com/pHZJLPz.png" height="80%" width="80%" alt="11"/>
+<img src="https://i.imgur.com/3w6VRbs.png" height="80%" width="80%" alt="12"/>
+<img src="https://i.imgur.com/dyCk0mt.png" height="80%" width="80%" alt="13"/>
+<img src="https://i.imgur.com/y1Fyylj.png" height="80%" width="80%" alt="14"/>
+<img src="https://i.imgur.com/JGyiKa2.png" height="80%" width="80%" alt="15"/>
+<img src="https://i.imgur.com/h9irt70.png" height="80%" width="80%" alt="16"/>
+<img src="https://i.imgur.com/srZdzS9.png" height="80%" width="80%" alt="17"/>
+<img src="https://i.imgur.com/KEu48DE.png" height="80%" width="80%" alt="18"/>
+<img src="https://i.imgur.com/knbnUZS.png" height="80%" width="80%" alt="19"/>
+<img src="https://i.imgur.com/cGcdQaL.png" height="80%" width="80%" alt="20"/>
 <img src="" height="80%" width="80%" alt="21"/>
 <img src="" height="80%" width="80%" alt="22"/>
 <img src="" height="80%" width="80%" alt="23"/>
