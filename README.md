@@ -9,7 +9,6 @@ I run attacks on a machine and used splunk to analyze the logs.
 <h2>Tools Used</h2>
 
 - <b>Active Directory</b>
-- <b>Wireshark</b>
 - <b>Splunk</b>
 - <b>Vmware</b> 
 
