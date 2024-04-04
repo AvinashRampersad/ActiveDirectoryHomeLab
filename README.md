@@ -1,8 +1,12 @@
 <h1>Splunk-Powered Active Directory Detection Lab</h1>
 
 <h2>Description</h2>
-In this lab I'm going to demonstrate how I created a home lab and configured Active directory on a domain controller using vmware. While configuring and running the lab environment I will configure Windows server 2019 to run the following services; DHCP, DNS, Splunk, NAT. 
-I run attacks on a machine and used splunk to analyze the logs.
+The puspose of this lab is to create a controlled environment where I can develop, test, and refine detection strategies for identifying threats and security incidents within an Active Directory environment using Splunk. 
+<br />
+I'm going to demonstrate how I created a home lab and configured Active directory on a domain controller using vmware. While configuring and running the lab environment I will configure Windows server 2019 to run the following services; DHCP, DNS, Splunk, NAT. 
+<br />
+I run an attack on a machine using Atomic Red Team and used Splunk to analyze the logs. 
+
 <br />
 
 
