@@ -1,4 +1,4 @@
-<h1>Active Directory Home Lab</h1>
+<h1>Splunk-Powered Active Directory Detection Lab</h1>
 
 <h2>Description</h2>
 In this lab I'm going to demonstrate how I created a home lab and configured Active directory on a domain controller using vmware. While configuring and running the lab environment I will configure Windows server 2019 to run the following services; DHCP, DNS, Splunk, NAT. 
